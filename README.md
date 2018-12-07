@@ -1,0 +1,2 @@
+# latihanIDJN
+Folder latihan IDJN
